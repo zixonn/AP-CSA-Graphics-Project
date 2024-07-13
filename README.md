@@ -1,2 +1,2 @@
 # AP-CSA-Graphics-Project
-Game I made
+Use VS Code Java extension to run.
